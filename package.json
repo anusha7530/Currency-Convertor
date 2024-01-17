@@ -1,7 +1,7 @@
 {
   "name": "currencyconvertor",
   "homepage" : "https://anusha7530.github.io/currency-convertor",
-  "private": "false",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
